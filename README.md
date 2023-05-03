@@ -7,7 +7,7 @@ Index
 </title>
 </head>
 <body>
-<h1> First heading </h2>
+<h1> First heading </h1>
 <h2> Second heading </h2>
 <h3> Third heading </h3>
 <h4> Fourth heading </h4>
